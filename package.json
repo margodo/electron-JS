@@ -1,0 +1,21 @@
+{
+  "name": "electronjs",
+  "prodctName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "app to resize images",
+  "homepage": "https://github.com/margodo/electron-JS#readme",
+  "bugs": {
+    "url": "https://github.com/margodo/electron-JS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/margodo/electron-JS.git"
+  },
+  "license": "MIT",
+  "author": "Margarita Do",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}
